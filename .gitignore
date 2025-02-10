@@ -1,3 +1,7 @@
 *.tap
 *.tap:Zone.Identifier
 *~
+*.f
+!craps.f
+listing
+data.crd
